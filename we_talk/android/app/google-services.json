@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964513184715",
+    "firebase_url": "https://wetalk-12d1a.firebaseio.com",
+    "project_id": "wetalk-12d1a",
+    "storage_bucket": "wetalk-12d1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964513184715:android:b578f9d9a586e1072c144e",
+        "android_client_info": {
+          "package_name": "com.example.we_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964513184715-gm6qnmi0pi6mup1j51bpbeaorr3uuvm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCc0-crkEgNBMQB0bKeSPxupLmlN2uROM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964513184715-gm6qnmi0pi6mup1j51bpbeaorr3uuvm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
